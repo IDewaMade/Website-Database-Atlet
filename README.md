@@ -30,3 +30,5 @@ git branch -d nama_branch //buat ngehapus branch lokal<br>
 git checkout main //kalo ga di branch main<br>
 git fetch<br>
 git pull //kalo ada update<br>
+
+coba nambah
